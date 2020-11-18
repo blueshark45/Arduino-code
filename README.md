@@ -1,4 +1,4 @@
-## Arduino-code
+## LED blink 
 code for Arduino assignments and other related projects to Arduino  
 ### evidence 
 create.arduino.cc/editor/aduarte42/cc6d433c-7d34-484c-a712-5b8b83e5114a
