@@ -24,3 +24,11 @@ code that makes a set of complext set of singles help other gagets to work and o
 
 ### reflection 
 i was stuck and confused on how to make working code asked for help and got help for me to make and understand what to do and how to code for assiments
+
+## new ping 
+
+### discription
+
+### image
+
+### reflection
