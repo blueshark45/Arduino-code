@@ -23,7 +23,7 @@ code that makes a set of complext set of singles help other gagets to work and o
 !{Screenshot 2020-12-03 at 4.36.57 PM.png} (images/Screenshot 2020-12-03 at 4.36.57 PM.png)
 
 ### reflection 
-i was stuck and confused on how to make working code asked for help and got help for me to make and understand what to do and how to code for assiments
+i was stuck and confused on how to make working code asked for help and got help for me to make and understand what to do and how to code for assiments also helped me to see what was wrong with my code in the assiment still having problems during it tests and cirutres might be put in wrong or code is not working in the right way that it should as well as the servo not working i will try to find solution to this problem and the source of the errors and problems.
 
 ## new ping 
 
