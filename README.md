@@ -32,3 +32,18 @@ i was stuck and confused on how to make working code asked for help and got help
 ### image
 
 ### reflection
+
+## ultrasonic robot 
+
+### discription 
+a robot that can carry out a objective that it is ment to do with programing and the build of the robot phycaly 
+
+### image 
+
+### relection 
+
+
+
+
+
+
